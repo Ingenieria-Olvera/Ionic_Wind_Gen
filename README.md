@@ -5,6 +5,8 @@ I have always loved space, and I have always loved high voltage. Why not combine
 ## **WARNING**
 I am not a professional yet I take extreme caution whenever I do and I admit to my mistakes, I was burning electrical tape making PVC which is lethal. Please research everything you can before attempting what I do.
 
+#
+
 ### **GOALS**
 - **Power**: I want it to be able to blow itself along with a small ship or zeplin to show that it can truly generate power.
 - **Easy**: I want this to be able to be relativly simple to make and or desgin.
