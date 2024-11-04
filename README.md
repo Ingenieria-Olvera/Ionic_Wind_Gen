@@ -1,4 +1,4 @@
-# Ionic_Wind_Gen
+# Ionic Wind Gen
 
 I have always loved space, and I have always loved high voltage. Why not combine the two, ioinc wind thursters are the basis for new space travel which is why I decided to make a mini version of my own.
 
