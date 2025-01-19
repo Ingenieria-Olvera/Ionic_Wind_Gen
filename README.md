@@ -15,7 +15,7 @@ I am not a professional yet I take extreme caution whenever I do and I admit to 
 
 ### **Components**
 - **3-9volt power supply**: You can use which every you will just have to change the spacing between the negative prong and positive one to minimize arcing and maximize chorona discharge.
-- **Transformer**: You need a lot of voltage for this project, making a transformer necessary, I will link mine [here.]()
+- **Transformer**: You need a lot of voltage for this project, making a transformer necessary, I will link mine [here.](https://www.amazon.com/DEVMO-400000V-Step-up-High-Voltage-Generator/dp/B07T3XDMH8?pd_rd_w=AB0ob&content-id=amzn1.sym.55f2405b-2aa3-4fa1-95e2-48a0da8f4e9a&pf_rd_p=55f2405b-2aa3-4fa1-95e2-48a0da8f4e9a&pf_rd_r=GYSF079SXB10VJ5NSB7Z&pd_rd_wg=6PKYu&pd_rd_r=38afa95a-391d-4ad1-ab38-85eea5824137&pd_rd_i=B07T3XDMH8&ref_=pd_bap_d_grid_rp_0_1_ec_pd_rhf_ee_s_rp_c_d_sccl_2_6_t&th=1)
 - **3d printer**: I use 3d prints to house my components.
 - **Graphite Paint**: I use graphite paint to make my things conductive, I recommend you electroplate with copper. I just dont have the ability to.
 - **Wire Cutters**: Please cut each wire to your prefered length, this will save you much headache.
