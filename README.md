@@ -28,15 +28,16 @@ I am not a professional yet I take extreme caution whenever I do and I admit to 
 #
   
 - **V2**: V2 was a bit more refined, using range bits from home depot, electrical tape to hold the transformer wires to the components--WHICH YOU SHOULD NOT DO--and I cut loose triangles that would act as the distribution part.
-  - This is what the V2 [looked]() like. Again, I can not stress enough the importance of not using electrical tape to hold the positive and negative connections to their respective conductors. 
+  - This is what the V2 [looked](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen/blob/main/Screenshot_20250119_180146_Photos%20(1).jpg) like. Again, I can not stress enough the importance of not using electrical tape to hold the positive and negative connections to their respective conductors. 
 
 
 #
 
 - **V3**: V3 is my best version, I used a 3d printer along with graphite paint to connect the two and make the two components conductive. I am going to be building apon this with new ideas of more voltage and a more jet engine casing for better performance.
   - This is my final version which [looks](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen/blob/main/20241018_132656%20(1).jpg) like this. If you are to recreate or learn anything from this project please take this as your starting point.
+  - The 3d print files can be found [here]().
 
 
 #
 
-- **V4?**: V4 is something I have not finihsed and have only done conceptual work on. 
+- **V4?**: I have an idea to truly beef this project up and use a modular voltage source to allow for greater voltage and potentially greater air flow. This is something that I have only done conceptual work and is still something that is in progress. That being said the files of my idea can be found [here]().
