@@ -28,4 +28,9 @@ I am not a professional yet I take extreme caution whenever I do and I admit to 
 #
   
 - **V2**: V2 was a bit more refined, using range bits from home depot, electrical tape to hold the transformer wires to the components--WHICH YOU SHOULD NOT DO--and I cut loose triangles that would act as the distribution part.
+  - This is what the V2 [looked]() like. Again, I can not stress enough the importance of not using electrical tape to hold the positive and negative connections to their respective conductors. 
+
+
+#
+
 - **V3**: V3 is my best version, I used a 3d printer along with graphite paint to connect the two and make the two components conductive. I am going to be building apon this with new ideas of more voltage and a more jet engine casing for better performance.
