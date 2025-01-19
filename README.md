@@ -34,7 +34,7 @@ I am not a professional yet I take extreme caution whenever I do and I admit to 
 #
 
 - **V3**: V3 is my best version, I used a 3d printer along with graphite paint to connect the two and make the two components conductive. I am going to be building apon this with new ideas of more voltage and a more jet engine casing for better performance.
-  - This is my final version which [looks]() like this. If you are to recreate or learn anything from this project please take this as your starting point.
+  - This is my final version which [looks](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen/blob/main/20241018_132656%20(1).jpg) like this. If you are to recreate or learn anything from this project please take this as your starting point.
 
 
 #
