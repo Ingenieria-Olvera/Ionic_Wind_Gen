@@ -23,10 +23,9 @@ I am not a professional yet I take extreme caution whenever I do and I admit to 
 
 ### **Versions**
 - **V1**: V1 was by far the worst out of everything, I thought I could loosley make this without much thought, yet I was severly humbled and was instantly forced to make a new position. It was made out of cut cardboard, aluminum foil, and electrical tape, and prayers.
+  - This is what my V1 [looked](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen/blob/main/20240912_203514%20(2).jpg) like, and let me tell you it did not work at all.
 
-This is what my V1 [looked](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen/blob/main/20240912_203514%20(2).jpg) like, and let me tell you it did not work at all.
-
-
+#
   
 - **V2**: V2 was a bit more refined, using range bits from home depot, electrical tape to hold the transformer wires to the components--WHICH YOU SHOULD NOT DO--and I cut loose triangles that would act as the distribution part.
 - **V3**: V3 is my best version, I used a 3d printer along with graphite paint to connect the two and make the two components conductive. I am going to be building apon this with new ideas of more voltage and a more jet engine casing for better performance.
